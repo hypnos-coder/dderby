@@ -16,4 +16,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
-<iframe src="https://hypnos-coder.github.io/dderby/blob/main/docs/graphs/function/two/two-Public%20Two%20Year.html" width="925" height="725"></iframe>
+<iframe src="https://hypnos-coder.github.io/dderby/graphs/function/two/two-Public_Four_Year.html" width="925" height="725"></iframe>
